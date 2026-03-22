@@ -1,20 +1,24 @@
-# Hi there, I'm @nnatna 👋
+<h1 align="center">Hi, I'm @nnatna 👋</h1>
 
-I am a **Year 2 University Student** passionate about web development, database management, and automotive technology. Currently focusing on building efficient management systems and exploring the world of Linux.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=University+Student;Web+Developer;Automotive+Enthusiast" alt="Typing SVG" />
+</p>
 
-### 🛠 My Tech Stack
-* **Languages:** PHP, Python, C, C#, JavaScript, SQL
-* **Web Tools:** Bootstrap 5, HTML5, CSS3
-* **Database:** MySQL, SQL Server
-* **Design:** Figma (UI/UX)
+---
 
-### 📈 Current Projects
-* **Motoshop Management System:** A full-stack web application for managing motorcycle shop inventory and sales.
+### 🛠 Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,py,cs,js,mysql,bootstrap,figma,linux" />
+</p>
 
-### 🎮 Interests
-When I'm not coding, you'll find me:
-* Customizing performance cars (Nissan Skyline R34 / Toyota Supra Mk4 enthusiast) 🏎️
-* Gaming (Minecraft & PUBG Mobile) 🎮
+### 📈 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=radical" />
+</p>
 
-### 📫 How to reach me
-* skyerkh@gmail.com
+---
+
+<p align="center">
+  "Building systems for the web and dreaming of performance cars."
+</p>
