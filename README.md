@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm @nnatna 👋
 
-<!--
-**nnatna/nnatna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Year 2 University Student** passionate about web development, database management, and automotive technology. Currently focusing on building efficient management systems and exploring the world of Linux.
 
-Here are some ideas to get you started:
+### 🛠 My Tech Stack
+* **Languages:** PHP, Python, C, C#, JavaScript, SQL
+* **Web Tools:** Bootstrap 5, HTML5, CSS3
+* **Database:** MySQL, SQL Server
+* **Design:** Figma (UI/UX)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Projects
+* **Motoshop Management System:** A full-stack web application for managing motorcycle shop inventory and sales.
+
+### 🎮 Interests
+When I'm not coding, you'll find me:
+* Customizing performance cars (Nissan Skyline R34 / Toyota Supra Mk4 enthusiast) 🏎️
+* Gaming (Minecraft & PUBG Mobile) 🎮
+
+### 📫 How to reach me
+* skyerkh@gmail.com
