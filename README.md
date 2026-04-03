@@ -26,7 +26,7 @@
     <td width="50%" valign="top">
       <h3>🎮 Interests</h3>
       <ul>
-        <li><b>Performance Cars:</b> Nissan Skyline R34 & Supra Mk4 🏎️</li>
+        <li><b>Performance Cars:</b> Nissan Skyline R34 | Mazda Rx7 | Toyota Supra Mk4 🏎️</li>
         <li><b>Gaming:</b> Minecraft & PUBG Mobile 🎮</li>
       </ul>
     </td>
