@@ -2,7 +2,9 @@
   <h1>Hi there, I'm <a href="https://github.com/nnatna">@nnatna</a> 👋</h1>
   <p><b>Year 2 University Student | Automation Engineer | Web Developer | Automotive Enthusiast</b></p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Motoshop+Systems;" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Motoshop+Systems;YOLOv8+Webcam+Integration;Tesseract+OCR+Bot" alt="Typing SVG" />
+</p>
 </div>
 
 ---
@@ -37,8 +39,8 @@
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nnatna&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nnatna&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nnatna&show_icons=true&theme=tokyonight&hide_border=true" height="180" style="margin: 5px;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nnatna&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" height="180" style="margin: 5px;" />
 </p>
 
 
