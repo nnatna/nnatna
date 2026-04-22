@@ -12,7 +12,7 @@
 ### 🛠️ My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,py,c,cs,js,mysql,bootstrap,html,css,figma,ps,linux" />
+    <img src="https://skillicons.dev/icons?i=php,py,laravel,c,cs,js,mysql,bootstrap,html,css,figma,ps,linux" />
   </a>
 </p>
 
