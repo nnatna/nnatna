@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://github.com/nnatna">@nnatna</a> 👋</h1>
-  <p><b>Year 2 University Student | Automation Engineer | Web Developer | Automotive Enthusiast</b></p>
+  <p><b>Year 3 University Student | Automation Engineer | Web Developer | Automotive Enthusiast</b></p>
   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=+Motoshop+Systems;YOLOv8+Webcam+Integration;Tesseract+OCR+Bot;Builling+POS" alt="Typing SVG" />
